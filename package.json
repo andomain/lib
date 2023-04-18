@@ -1,0 +1,24 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "Collection of JS library functions I regularly rech for",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "test:cov": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andomain/lib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andomain/lib/issues"
+  },
+  "homepage": "https://github.com/andomain/lib#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
